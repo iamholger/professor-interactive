@@ -3,7 +3,7 @@
 Jupyter notebook replacement for prof2-I, the interactive parametrisation explorer (professor.hepforge.org).
 
 An example parametrisation file can be found here: http://www.hepforge.org/archive/professor/ipol_example_binder.dat
-(The parameter space are HEFT Wilson coefficients, the observables different show different quantities of Higgs physics
+(The parameter space are HEFT Wilson coefficients, the observables show different quantities of Higgs physics
 in WBF production.)
 
 Launch Binder, run the Prof-I notebook until the upload button ("Browse") appears.
