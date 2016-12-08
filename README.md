@@ -4,7 +4,7 @@ Jupyter notebook replacement for prof2-I, the interactive parametrisation explor
 
 Example parametrisation files can be found in the repository.
 
-Launch Binder, run the notebook until the upload button appears, select professor >=2.2.0 parametriasation file,
+Launch Binder, run the Prof-I notebook until the upload button appears, select professor >=2.2.0 parametriasation file,
 load rest of notebook. The sliders can be used to play with the parameters,the dropdown list allows to switch to
 another histogram of interest.
 
